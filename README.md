@@ -1,22 +1,10 @@
 # Audio Synthesizer — Logic Noise, Breadboard Prototypes & KiCad PCB
 
-**Circuits / CreaTech — November 2026**  
-**Project repository:** [Circuits_Audio_Synthesizer](https://github.com/Hultoncity2330/Circuits_Audio_Synthesizer)  
-**Team:** *[Add the names of the 2–3 group members]*
+**Circuits / CreaTech A4 — November 2026**
+**Team:** Ryan Hulton, Paul Lamour
 
 > An experimental audio synthesizer built from digital logic: we explored oscillator circuits on breadboards, documented their waveforms and sounds, modeled a circuit in Tinkercad, and developed an expanded KiCad schematic and PCB layout.
 
-## Project at a glance
-
-| Stage | Evidence / deliverable | Status |
-| --- | --- | --- |
-| Oscillator experiments | Breadboard photos and five demonstration videos | Documented below |
-| Measuring waveforms | Three oscilloscope screenshots | Documented below |
-| Sketching the circuit | Hand-drawn circuit diagram | Included |
-| Tinkercad prototype | Breadboard image and generated schematic | Linked below |
-| Soldered prototype | Photographs **and proof of operation** | **To add / verify** |
-| Expanded design | KiCad schematic, board, project, and libraries | Included in `kicad/` |
-| Electrical CAD checks | Last recorded KiCad ERC/DRC results | Described below; not a hardware test |
 
 ## 1. Concept and learning objectives
 
@@ -130,17 +118,9 @@ The eight-LED shift-register section is a **design feature**, not evidence that 
 
 To edit the design, open the `.kicad_pro` file from the directory above and keep the local symbol and footprint libraries in their existing relative positions.
 
-## 5. Soldered prototype — evidence still required
+## 5. Soldered prototype
 
-The assignment asks for **photographs of the completed soldered synthesizer and evidence of it working**. The supplied media archive shows breadboard experiments and perforated-board material, but I cannot reliably identify a photograph or video that proves a **completed soldered** audio synth is operating.
-
-**Before submission, add:**
-
-- [ ] A clear photograph of the soldered circuit, showing the component and solder sides where possible.
-- [ ] A short video or audio recording of the assembled soldered circuit actually producing sound.
-- [ ] A caption identifying which controls are being adjusted and what the listener should notice.
-
-Once uploaded, link the new files here; do not label the existing breadboard videos as proof of a soldered PCB.
+> WIP...
 
 ## 6. What we learned and possible next steps
 
@@ -182,18 +162,6 @@ Circuits_Audio_Synthesizer/
     ├── oscilloscope2.png
     └── oscilloscope3.png
 ```
-
-## 8. Final submission checklist
-
-- [x] GitHub repository created, with KiCad and Tinkercad sections.
-- [x] Breadboard photographs and experiment videos referenced.
-- [x] Hand-drawn circuit and oscilloscope captures referenced.
-- [x] Final editable KiCad schematic and PCB project referenced.
-- [ ] Confirm that the two Tinkercad filenames above match the files on GitHub.
-- [ ] Add **verified soldered-prototype photographs and proof of functioning**.
-- [ ] Clearly identify and, if possible, demonstrate the **novel functionality of V2 relative to soldered V1**.
-- [ ] Fill in group members' names and any measured frequencies.
-- [ ] Commit and push this README, then send the repository link to the instructor.
 
 ---
 
