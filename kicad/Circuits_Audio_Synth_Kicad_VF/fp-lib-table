@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "AudioSynth_Local")(type "KiCad")(uri "${KIPRJMOD}/AudioSynth_Local.pretty")(options "")(descr "Empreintes du prototype, positions de pastilles conservées"))
+)

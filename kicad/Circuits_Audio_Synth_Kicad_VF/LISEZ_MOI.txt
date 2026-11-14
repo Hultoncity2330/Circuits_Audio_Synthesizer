@@ -1,0 +1,8 @@
+PROJET KICAD — Circuits_Audio_Synth_Kicad_VF
+
+Cette archive reprend le projet v8 sans changement du schema, des pistes, pastilles, empreintes ou bibliotheques locales. Seuls les noms de projet sont modifies.
+
+Ouvrez Circuits_Audio_Synth_Kicad_VF.kicad_pro depuis le dossier extrait. Gardez AudioSynth_Local.pretty, Custom.kicad_sym, fp-lib-table et sym-lib-table a cote des fichiers KiCad.
+
+Dernier DRC montre par l utilisateur : 0 erreur, 0 avertissement, 0 connexion non routee, 0 ecart schematique-PCB (5 tests ignores).
+Attention : l adequation des empreintes physiques personnalisees et le fonctionnement reel restent a verifier avant fabrication.
