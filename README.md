@@ -1,6 +1,6 @@
 # Audio Synthesizer — Logic Noise, Breadboard Prototypes & KiCad PCB
 
-**Circuits / CreaTech A4 — November 2026**
+**Circuits / CreaTech A4 — November 2026**  
 **Team:** Ryan Hulton, Paul Lamour
 
 > An experimental audio synthesizer built from digital logic: we explored oscillator circuits on breadboards, documented their waveforms and sounds, modeled a circuit in Tinkercad, and developed an expanded KiCad schematic and PCB layout.
@@ -120,7 +120,23 @@ To edit the design, open the `.kicad_pro` file from the directory above and keep
 
 ## 5. Soldered prototype
 
-> WIP...
+### 5.1 Assembly and soldering progress
+
+After testing our audio synthesizer circuits on breadboards, we began transferring the components onto perforated prototyping boards to build a more permanent physical prototype.
+
+**The soldering process has not yet been completed successfully.** We encountered difficulties assembling the boards and making reliable electrical connections between the components. The photograph below shows the current assembly progress, including the boards for the LED outputs, electronic components and adjustable controls.
+
+![Audio synthesizer prototype — soldering in progress](media/soldering_process.jpg)
+
+*Figure 4 — Work-in-progress assembly on perforated prototyping boards. The soldering and interconnections have not yet been finalized.*
+
+### 5.2 Current status and next steps
+
+Although we tested various oscillator circuits during the breadboard experiments, **we cannot yet confirm that the soldered assembly works**. No functioning soldered prototype has been demonstrated at the time of submission.
+
+Our next steps are to complete the solder joints and wiring, check continuity and possible short circuits, verify the power connections, and test the assembled synthesizer before recording evidence of its operation.
+
+This section documents the unfinished state of the physical prototype rather than presenting it as a completed or verified circuit.
 
 ## 6. What we learned and possible next steps
 
